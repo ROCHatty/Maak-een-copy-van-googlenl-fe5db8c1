@@ -1,0 +1,134 @@
+.nav {
+	min-width: 181px;
+	z-index: 987;
+	flex: 1 1 auto;
+	display: flex;
+	padding-left: 30px;
+	padding-right: 30px;
+	position: relative;
+	text-align: right;
+	align-items: center;
+	justify-content: flex-end;
+	top: 10px;
+}
+.nav-item-1 {
+	padding-right: 15px;
+}
+.nav-item-2 {
+	min-width: 75px;
+}
+.a {
+	padding-left: 0;
+	display: inline-block;
+	vertical-align: middle;
+}
+.b {
+	padding-left: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.c {
+	color: black;
+	text-decoration: none;
+}
+.d {
+	padding: 0 0 0 15px;
+}
+.e {
+	position: relative;
+}
+.f {
+	background-image: url(https://lh3.googleusercontent.com/-szJfjHgPmkQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd57nm9s-N0I8QOw-FLSOsNOAhsqQ.CMID/s32-c/photo.jpg);
+	background-size: 32px 32px;
+	border-radius: 50%;
+	display: block;
+	margin: -1px;
+	overflow: hidden;
+	position: relative;
+	height: 32px;
+	width: 32px;
+	z-index: 0;
+}
+.g {
+	padding-top: 109px;
+	height: 92px;
+	width: 272px;
+	text-align: -webkit-center;
+	font-size: small;
+}
+.h {
+	font-size: small;
+	background: #fff;
+	color: #222;
+	font-family: arial,sans-serif;
+}
+.i {
+	overflow: visible;
+	max-width: none;
+	width: 100%;
+	background: none;
+	display: block;
+}
+
+.j {
+	background-color: transparent;
+	border: 0;
+	padding:0;
+	color: #000;
+	word-wrap: break-word;
+	outline: 0;
+	display: flex;
+	flex: 100%;
+	font-size: 16px;
+	line-height: 34px;
+	height: 34px;
+	width: 100%;
+}
+
+.k {
+	width: 582px;
+	background: #fff;
+	display: flex;
+	border: 1px solid #dfe1e5;
+	box-shadow: 0;
+	border-radius: 24px;
+	z-index: 3;
+	height: 34px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.l {
+	width: 571px;
+	height: 70px;
+	padding-top: 18px;
+	position: absolute;
+	top: 53px;
+	z-index: 0;
+	display: block;
+}
+
+.m {
+	height: 36px;
+	line-height: 27px;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 4px;
+	color: #5F6368;
+	cursor: pointer;
+	font-size: 14px;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+	margin-top: 50%;
+}
+
+.n {
+	
+}
+.o {
+	
+}
